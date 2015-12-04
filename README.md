@@ -4,6 +4,10 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
+A React Form library that uses Mobservable, inspired by Redux-Form.
+
+Still in early production.
+
 Collaborating on this React component:
 
 ## Prerequisites
