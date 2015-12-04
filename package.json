@@ -1,6 +1,6 @@
 {
   "name": "mobservable-form",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "mobservable-form React component",
   "main": "./lib/index.js",
   "scripts": {
